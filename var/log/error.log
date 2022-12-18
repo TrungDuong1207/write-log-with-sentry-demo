@@ -1,0 +1,11 @@
+[2022-12-18 09:44:46] [[31merror[39m] Error: Error test winston
+    at D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\dist\index.js:15:15
+    at Layer.handle [as handle_request] (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\layer.js:95:5)
+    at D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (D:\1.learn-js\practice\module4\week2\5.thực hánh ghi log\config_mvc_mongoose_ts\node_modules\express\lib\router\layer.js:95:5)
